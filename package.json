@@ -1,0 +1,28 @@
+{
+  "name": "carcassonneio",
+  "version": "1.0.0",
+  "description": "browser version of map building game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connoryork/carcassonneio.git"
+  },
+  "keywords": [
+    "carcassonne",
+    "node",
+    "browser",
+    "game"
+  ],
+  "author": "Connor York",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/connoryork/carcassonneio/issues"
+  },
+  "homepage": "https://github.com/connoryork/carcassonneio#readme",
+  "dependencies": {
+    "phaser": "^3.22.0"
+  }
+}
